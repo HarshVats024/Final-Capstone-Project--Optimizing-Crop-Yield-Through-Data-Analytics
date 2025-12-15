@@ -94,12 +94,28 @@ Beyond technical skills, the project significantly enhanced my analytical reason
 
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
+## **Technologies and Tools Used**
+
+-**Microsoft Excel** – Utilized for initial data loading and preprocessing, including data cleaning, handling missing values, creating derived columns, and performing preliminary analysis using pivot tables and charts.
+
+-**DB Browser (SQLite)** – Used to store cleaned and structured data in relational tables and to perform SQL-based operations such as joins, aggregations, filtering, and sorting for analytical querying.
+
+-**Python (Jupyter Notebook)** – Applied for exploratory data analysis (EDA), data visualization, feature engineering, and baseline predictive modeling using libraries such as Pandas, NumPy, and Matplotlib.
+
+-**Power BI Desktop** – Employed for data modeling, creation of DAX measures, and development of interactive dashboards and reports to present insights in a business-friendly manner.
+
+-**GitHub** – Used for version control, project documentation, and repository management, including maintaining datasets, scripts, notebooks, and final reports.
+
 
 
 ## **References**
 
 - [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
+- [Microsoft Excel Official Support](https://support.microsoft.com/excel)
+- [SQLite]((https://www.sqlite.org/quickstart.html))
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Power BI Official Documentation](https://learn.microsoft.com/en-us/power-bi/
 ---
 
 
@@ -108,7 +124,6 @@ Beyond technical skills, the project significantly enhanced my analytical reason
 The Life Skills Training (LST) and Soft Skills Training (SST) sessions played a vital role in my overall professional development. Through these sessions, I improved my communication skills, interpersonal abilities, and confidence in expressing ideas clearly and effectively. The training helped me understand the importance of professional etiquette, teamwork, time management, and adaptability in a workplace environment.
 
 Additionally, these sessions enhanced my presentation skills, problem-solving mindset, and ability to handle feedback constructively. The practical activities and discussions during LST and SST strengthened my self-awareness and prepared me to interact professionally with colleagues, mentors, and stakeholders in real-world scenarios.
----
 
 ## **Community Services**
 
@@ -131,21 +146,24 @@ Through these community service activities, I developed a stronger sense of civi
 
 ### **Impact / Contribution**
 
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+- Actively participated in promoting a greener and cleaner environment through community-driven initiatives.
+
+- Offered personal assistance to elderly citizens, helping with daily tasks and strengthening community bonds.
+
+- Improved skills in communication, coordination, and social responsibility through active community engagement.
+
+- Developed a sense of civic responsibility and teamwork while contributing positively to society.
+
+- Gained practical experience in empathy-driven service and collaborative participation beyond technical work.
 
 ### **Photos**
 
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
-
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="^" alt="Community Service Photo 1" width="30%">
+<img src="^" alt="Community Service Photo 2" width="30%">
+<img src="^" alt="Community Service Photo 3" width="30%">
 </div>
 
 ---
@@ -164,7 +182,7 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+- [Mr. Purnangshu Nath Roy](https://www.linkedin.com/in/purnangshu-roy-16380614), AI Consultant in CSR BOX, Mentor – [SURE Trust]
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
