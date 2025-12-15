@@ -112,10 +112,10 @@ Beyond technical skills, the project significantly enhanced my analytical reason
 
 - [Wikipedia](https://wikipedia.com)
 - [Microsoft Excel Official Support](https://support.microsoft.com/excel)
-- [SQLite]((https://www.sqlite.org/quickstart.html))
+- [SQLite](https://www.sqlite.org/quickstart.html)
 - [Python Official Documentation](https://docs.python.org/3/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Power BI Official Documentation](https://learn.microsoft.com/en-us/power-bi/
+- [Power BI Official Documentation](https://learn.microsoft.com/en-us/power-bi/)
 ---
 
 
