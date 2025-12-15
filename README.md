@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Harsh Vats </p>
+    <p><strong>Email ID:</strong> harshvatsg8@gmail.com </p>
+    <p><strong>College Name:</strong> Jagan Institute of Management Studies </p>
+    <p><strong>Branch/Specialization :</strong> Masters in Computer Application </p>
+    <p><strong>College ID:</strong> 03450404423 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Data Science and Data Analytics </p>
+    <p><strong>Instructor Name:</strong> Mr. Purnangshu Nath Roy </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> June 2025 to December 2025 </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Mr. Purnangshu Nath Roy</p>
+<p><strong>Trainer Email ID:</strong> purnangshu13@gmail.com ></p>
+<p><strong>Trainer Designation:</strong> AI CONSULTANT in CSR BOX</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,54 +63,35 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During this six-month training program, I developed a strong and practical foundation in the Data Scientist technology stack, covering the complete data science lifecycle. I gained hands-on experience in data collection, data cleaning, exploratory data analysis (EDA), feature engineering, statistical analysis, and machine learning model development and evaluation.
 
+I worked extensively with industry-relevant tools and technologies such as Python, Pandas, NumPy, Matplotlib, SQL, and Jupyter Notebook, applying them to real-world datasets to derive insights and build interpretable predictive models. This training strengthened my understanding of data-driven decision-making, model evaluation metrics, and best practices in documentation and reproducibility.
+
+In addition to technical expertise, I significantly improved my soft skills, including communication, presentation, teamwork, and professional conduct. I would like to express my sincere gratitude to Ms. Radha Kumari for her dedicated efforts and guidance in conducting the LST (Life Skills Training) sessions, which played a crucial role in enhancing my confidence, interpersonal skills, and overall professional readiness.
+
+This combined focus on technical proficiency and soft skill development has prepared me to effectively contribute to real-world data science projects in both academic and industry environments.
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
+<p><strong><a href="#project1">Project 1:</a></strong> Data-Driven Crop Yield Optimization and Predictive Agricultural Analytics </p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Data-Driven Crop Yield Optimization and 
+Predictive Agricultural Analytics </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+This capstone project offered in-depth, hands-on experience in applying data science and analytics techniques to a real-world agricultural problem. It strengthened my ability to work with large, heterogeneous datasets and transform raw agricultural data into meaningful, actionable insights through systematic data cleaning, exploratory analysis, and feature engineering.
+
+I gained practical exposure to using Python for data preprocessing, exploratory data analysis, and predictive modeling; SQL for structured querying, aggregation, and benchmarking; and visualization tools for presenting analytical findings in a clear and interpretable manner. The project improved my understanding of how different components of the data science stack integrate into an end-to-end analytical and predictive pipeline.
+
+Beyond technical skills, the project significantly enhanced my analytical reasoning, problem-solving approach, and data-driven decision-making capabilities. It also strengthened my ability to communicate insights effectively to both technical and non-technical stakeholders, making the overall learning experience both academically rigorous and industry-relevant.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/HarshVats024/Data-Driven-Crop-Yield-Optimization-and-Predictive-Agricultural-Analytics" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -124,32 +105,32 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+The Life Skills Training (LST) and Soft Skills Training (SST) sessions played a vital role in my overall professional development. Through these sessions, I improved my communication skills, interpersonal abilities, and confidence in expressing ideas clearly and effectively. The training helped me understand the importance of professional etiquette, teamwork, time management, and adaptability in a workplace environment.
+
+Additionally, these sessions enhanced my presentation skills, problem-solving mindset, and ability to handle feedback constructively. The practical activities and discussions during LST and SST strengthened my self-awareness and prepared me to interact professionally with colleagues, mentors, and stakeholders in real-world scenarios.
 ---
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+During my internship period, I actively participated in community-oriented activities that contributed positively to society and reinforced the value of social responsibility.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+Tree Plantation Drive – Participated in a tree plantation initiative by planting saplings and supporting environmental conservation efforts. This activity emphasized the importance of sustainability and ecological balance.
 
-### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
+Helping Elder Citizens – Assisted elderly individuals with basic daily tasks and provided emotional and practical support where required. This experience enhanced my sense of empathy, patience, and responsibility toward the community.
+
+Through these community service activities, I developed a stronger sense of civic responsibility and social awareness, understanding the importance of contributing positively to society alongside professional growth.
+
+### **Activities Involved** 
  <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
   <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** – Assisted four elderly individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
