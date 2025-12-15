@@ -89,7 +89,7 @@ I gained practical exposure to using Python for data preprocessing, exploratory 
 Beyond technical skills, the project significantly enhanced my analytical reasoning, problem-solving approach, and data-driven decision-making capabilities. It also strengthened my ability to communicate insights effectively to both technical and non-technical stakeholders, making the overall learning experience both academically rigorous and industry-relevant.
 </p>
 <p>
-  <a href="https://github.com/HarshVats024/Data-Driven-Crop-Yield-Optimization-and-Predictive-Agricultural-Analytics/blob/main/Capstone%20Project%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/HARSH-VATS-g8-ds/blob/main/Final%20capstone%20project/Capstone%20Project%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
